@@ -1,0 +1,30 @@
+/* Styles for the body element */
+body{
+  background-color: hsl(212, 45%, 89%);
+
+  font-family: 'Outfit', sans-serif;
+}
+/* Styles for the container element */
+.container{
+  background-color: hsl(0, 0%, 100%);
+  width: fit-content;
+  height: fit-content;
+  text-align: center;
+  padding: 12px;
+  border-radius: 15px;
+  margin: 0 auto;
+  margin-top: 60px;
+}
+/* Style for paragraph with class "p1" */
+.p1{
+  color: hsl(218, 44%, 22%);
+  font-weight: 700;
+  
+}
+/* Style for paragraph with class "p1" */
+.p2{
+  color: hsl(220, 15%, 55%);
+  font-weight: 400;
+  font-size: 15px;
+  margin-top: 2px;
+}
